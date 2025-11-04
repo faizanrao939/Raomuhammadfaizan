@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.ibb.co/8msLk1b/blackgold-banner.gif" width="100%" />
   <h1>Hey, I'm <span style="color:#FFD700;">Rao Muhammad Faizan</span> 👋</h1>
-  <h3 style="color:gray;">Full-Stack Developer | UI/UX Enthusiast | Tech Visionary</h3>
+  <h3 style="color:gray;">Full-Stack Developer</h3>
   <br/>
 </div>
 
