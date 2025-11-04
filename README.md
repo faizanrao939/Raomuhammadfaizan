@@ -1,83 +1,81 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</p>
-
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Rao Muhammad Faizan</h1>
-<h3 align="center">Full-Stack Web Developer | Open Source Contributor | Tech Explorer</h3>
+<h3 align="center">💻 Passionate Web Developer | 🌐 Frontend & Backend Learner | 🚀 Tech Enthusiast</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=24&center=true&vCenter=true&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+React+%7C+Node.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Web+Developer;Full+Stack+Learner;Tech+Explorer;Open+Source+Contributor" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently building **Responsive Web Apps & UI Designs**
-- 🌱 Learning **React.js, Node.js, and Advanced PHP**
-- 💬 Ask me about **Web Development, JavaScript, and PHP**
-- 📫 Reach me at: [faizanrao939@gmil.com](mailto:faizanrao939@gmail.com)
-- ⚡ Fun fact: *I love turning ideas into real, working websites!*
+
+- 🔭 I’m currently working on **Responsive Websites & Web Apps**
+- 🌱 I’m currently learning **React.js, Node.js, and PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, and PHP**
+- 📫 Reach me at: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+- ⚡ Fun fact: *I love creating creative UI designs and learning new web trends!*
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Languages and Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mysql,bootstrap,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,python,github,vscode,figma,git,bootstrap,mysql" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raomuhammadfaizan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raomuhammadfaizan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raomuhammadfaizan&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raomuhammadfaizan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raomuhammadfaizan&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raomuhammadfaizan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/Rao faizan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/faizanrao939" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/raomuhammadfaizan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://twitter.com/faizanrao486667" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://facebook.com/فیضان راؤ" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/faizan_rao7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:faizanrao939@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
 ### 🏆 Achievements
-- 🎯 Completed multiple **full-stack projects**
-- 🌱 Active contributor to **Open Source**
-- 💡 Constantly learning **new frameworks & technologies**
+
+- 🥇 Completed multiple responsive website projects  
+- 🌱 Actively contributing to open source  
+- 💡 Always learning new tools and frameworks  
 
 ---
 
-### 👀 Profile Visitors
+### 🎯 Visitor Count
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raomuhammadfaizan&label=Profile+Views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raomuhammadfaizan&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-⭐️ From [Rao Muhammad Faizan](https://github.com/faizanrao939)
+⭐️ From [Rao Muhammad Faizan](https://github.com/raomuhammadfaizan)
