@@ -1,58 +1,50 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Rao Muhammad Faizan</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Pakistan 🇵🇰</h3>
+<!-- Header / Hero Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2800&pause=1000&color=F7B42C&center=true&vCenter=true&width=700&lines=Hey+There+👋,+I'm+Rao+Muhammad+Faizan!;Full+Stack+Web+Developer+💻;Frontend+Artist+🎨;Building+the+Future+of+Web+🌐" alt="Typing SVG" />
+</div>
+
+---
+
+<!-- About Section -->
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Learner;Open+Source+Contributor;Building+Digital+Experiences" alt="Typing Animation" />
+I'm a <b>passionate full-stack developer</b> who loves turning ideas into real digital products.<br/>
+Focused on crafting clean UI/UX experiences and exploring modern technologies like <b>React, Node.js, and Next.js</b>.<br/>
+I believe every project is a chance to make something better than yesterday 💡.
 </p>
 
 ---
 
-### 🧠 About Me
-- 💻 I specialize in creating **modern, responsive, and user-focused web applications**.  
-- 🌱 Currently learning **React.js, Node.js, and Next.js** to strengthen my full-stack skills.  
-- 🤝 I’m open to **collaborating on web projects and open-source contributions**.  
-- 📫 Reach me at **[your-email@gmail.com](mailto:your-email@gmail.com)**  
-- ⚡ I believe: *"Every line of code should make something better."*
-
----
-
-### 🛠️ Tech Stack
+<!-- Skills -->
+<h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,bootstrap,tailwind,git,github,vscode,figma" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raomuhammadfaizan&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,tailwind,bootstrap,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+<!-- Stats Section -->
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raomuhammadfaizan&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="stats graph" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raomuhammadfaizan&theme=github-dark-blue&hide_border=true" height="150" alt="streak graph" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=raomuhammadfaizan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B42C&icon_color=F7B42C" height="165" />
+  <img src="https://streak-stats.demolab.com?user=raomuhammadfaizan&theme=radical&hide_border=true&ring=F7B42C&fire=F7B42C&currStreakLabel=F7B42C" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raomuhammadfaizan&layout=compact&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raomuhammadfaizan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B42C" height="165" />
 </p>
 
 ---
 
-### 🌍 Connect With Me
+<!-- Socials -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/raomuhammadfaizan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -60,33 +52,40 @@
   <a href="https://instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🏆 Achievements
-- 💡 Developed and deployed multiple responsive websites  
-- 🌱 Active learner of new frameworks & UI libraries  
-- 💬 Helping others learn web development on GitHub and forums  
-- 🧩 Focused on writing **clean, scalable, and efficient code**
+<!-- Cool Banner -->
+<h2 align="center">🏆 Achievements & Highlights</h2>
 
----
-
-### 💬 Favorite Quote
-> “The best way to predict the future is to invent it.” — Alan Kay
-
----
-
-### 👀 Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raomuhammadfaizan&label=Profile+Views&color=00C3FF&style=flat-square" alt="Profile Views" />
+  💡 Built and deployed multiple responsive web apps.<br/>
+  🚀 Love contributing to open-source projects.<br/>
+  🌱 Constantly exploring new tools and design systems.<br/>
+  🧩 Obsessed with writing clean, maintainable code.
 </p>
 
 ---
 
+<!-- Quote -->
 <p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
+  <i>“Code is not just code — it’s creativity written in logic.”</i>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raomuhammadfaizan&label=Profile+Visitors&color=F7B42C&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <b>⭐ Don't forget to star my repositories if you find them cool!</b>
 </p>
